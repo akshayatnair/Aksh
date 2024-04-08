@@ -1,0 +1,9 @@
+
+ {% csrf_token %}
+body
+{
+ margin:0;
+ padding:0;
+ background_color:DeepPink;
+ font-family:'Arial';
+}
